@@ -69,7 +69,7 @@ const aliens = {
         'features':'A humanoid species with light blue/white skin, they are almost blind, and they have powerful telepathic abilities. They also have antannae.',
         'interestingFact': 'Aenar is pacifistic and does not use their mind-reading abilities against the will of another individual. Nonetheless, their blindness does not appear to hinder their ability to know that they are in the presence of a "blue skin" Andorian or to detect obstacles.' ,
         'notableExamples' : "Hemmer",
-        'image': 'https://static.wikia.nocookie.net/memoryalpha/images/d/de/Lissan.jpg/revision/latest?cb=20100201225743&path-prefix=en'
+        'image': 'https://i.postimg.cc/SnLWrbtx/aenar.jpg'
     },
     'andorians':{
         'speciesName' : 'andorians',
@@ -150,14 +150,6 @@ const aliens = {
         'interestingFact': "In the mid-1st century, predation by the Kelpiens drove the Ba'ul to the brink of extinction, with fewer than 260 individuals surviving. Using their technological superiority, the Ba'ul turned the tide and wiped out all the post-vahar'ai Kelpiens." ,
         'notableExamples' : "N/A",
         'image': 'https://static.wikia.nocookie.net/memoryalpha/images/7/78/Baul.jpg/revision/latest?cb=20190222073313&path-prefix=en'
-    },
-    'berellians':{
-        'speciesName' : 'Berellians',
-        'homeworld': 'N/A',
-        'features':'N/A',
-        'interestingFact': 'N/A' ,
-        'notableExamples' : "N/A",
-        'image': ''
     },
     'benzites':{
         'speciesName' : 'Benzites',
