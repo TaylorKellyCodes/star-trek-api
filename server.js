@@ -421,7 +421,7 @@ const aliens = {
         'features':'All the Xindi species share distinctive ridges on their cheekbones and foreheads.',
         'interestingFact': 'Six different intelligent species developed on Xindus; one of them, the Xindi-Avians, was believed extinct by the 2150s, as the result of a brutal civil war between the six species that destroyed the planet. The surviving species were united under the governance of the Xindi Council, which contained two representatives from each species. The five remaining species were Xindi-Aquatics, Xindi-Arboreals, Xindi-Insectoids, Xindi-Primates, and Xindi-Reptilians.' ,
         'notableExamples' : "Degra, Dolim, Jannar",
-        'image': 'https://static.wikia.nocookie.net/memoryalpha/images/2/2b/Degra.jpg/revision/latest?cb=20140111024128&path-prefix=en'
+        'image': 'https://imgur.com/l2jmWWX'
     },
     
 }
