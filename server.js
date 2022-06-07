@@ -59,7 +59,7 @@ const aliens = {
         'speciesName' : 'Trill',
         'homeworld': 'Trill',
         'features':'Outward appearance similar to humans, aside from distinct dark pigment marks running symmetrically down both sides of the face and body',
-        'interestingFact': 'Some Trill are willin hosts to a long-lived invertibrate symbiote that merges with the host to create a distinct personality.' ,
+        'interestingFact': 'Some Trill are willing hosts to a long-lived invertibrate symbiote that merges with the host to create a distinct personality.' ,
         'notableExamples' : "Jadzia Dax, Ezri Dax, Curzon Dax",
         'image': 'https://static.wikia.nocookie.net/aliens/images/4/42/EzriDax.jpg'
     },
@@ -72,7 +72,7 @@ const aliens = {
         'image': 'https://i.postimg.cc/SnLWrbtx/aenar.jpg'
     },
     'andorians':{
-        'speciesName' : 'andorians',
+        'speciesName' : 'Andorians',
         'homeworld': 'Andoria',
         'features':'A humanoid species with blue skin and antennae.',
         'interestingFact': 'They consider themselves a warrior race, in contrast with the pacifist Aenar who also live on Andoria.' ,
@@ -159,8 +159,8 @@ const aliens = {
         'notableExamples' : "Hoya, Mendon, Mordock",
         'image': 'https://i.postimg.cc/wtfRfq5g/benzites.jpg'
     },
-    'betazoid':{
-        'speciesName' : 'Betazoid',
+    'betazoids':{
+        'speciesName' : 'Betazoids',
         'homeworld': 'Betazed',
         'features':'Betazoids are physically indistinguishable from Humans in every aspect but one: the irises of their eyes are completely black. ',
         'interestingFact': 'Most develop a telepathic skill in adolescence.' ,
@@ -257,7 +257,7 @@ const aliens = {
     },
     'hirogen':{
         'speciesName' : 'Hirogen',
-        'homeworld': 'unknown',
+        'homeworld': 'Unknown',
         'features':'Hirogen adult males are quite large, standing above the average height of most other known humanoid species. They also possess greater physical strength than most humanoids afforded to them by their advanced muscle and nervous system.',
         'interestingFact': 'The Hirogen use an enzyme to break down the bones and muscle tissue of their prey, which is speculated by Chakotay to be for consumption as food, but this has not been confirmed.' ,
         'notableExamples' : "Donik, Idrin, Karr",
