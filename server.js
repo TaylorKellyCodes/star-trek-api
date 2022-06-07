@@ -415,7 +415,7 @@ const aliens = {
         'notableExamples' : "Borath, Deyos, Eris",
         'image': 'https://static.wikia.nocookie.net/memoryalpha/images/a/a7/Weyoun_8.jpg/revision/latest?cb=20120601105430&path-prefix=en'
     },
-    'Xindi':{
+    'xindi':{
         'speciesName' : 'Xindi',
         'homeworld': 'Xindus',
         'features':'All the Xindi species share distinctive ridges on their cheekbones and foreheads.',
