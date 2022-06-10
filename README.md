@@ -1,4 +1,9 @@
-Welcome to my Star Trek LCAT Species information finder! Clone the repo here-> https://github.com/TaylorKellyCodes/star-trek-client-side and get your nerd on. Just enter the species name in the text box and click "Get Info" and be amazed.
+Welcome to my Star Trek LCAT Species information finder! 
+Here is the finished product: https://star-trek-species.netlify.app/
+Just enter the species name in the text box and click "Get Info" and be amazed.
+
+
+Clone the repo here-> https://github.com/TaylorKellyCodes/star-trek-client-side and get your nerd on. 
 
 How I made it:
 
