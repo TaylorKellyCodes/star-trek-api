@@ -2,42 +2,20 @@
 
 Just enter the species name in the text box and click "Get Info" and you'll get a picture and helpful information about the species.
 
-Link to Project: https://star-trek-species.netlify.app/
+### Link to Project: https://star-trek-species.netlify.app/
 
-Screenshot: [![federation.jpg](https://i.postimg.cc/WzfpyFZp/federation.jpg)](https://postimg.cc/y3czgNn2)
+### Screenshot: [![federation.jpg](https://i.postimg.cc/WzfpyFZp/federation.jpg)](https://postimg.cc/y3czgNn2)
 
-How I made it:
+###How I made it:
 
-I used Node.js, Express, and a HTML/CSS Template from https://www.thelcars.com/ to create an app that you can use to look for information on the species in the Star Trek universe! The API code is currently hosted on Heroku.
+## Tech Used: Node.js, Express, 
 
-Live long and prosper.
+and a HTML/CSS Template from https://www.thelcars.com/ to create a full-stack app that you can use to look for information on different species in the Star Trek universe! The API is made from scratch with JavaScript and stores all of the information and pictures.
 
+### Optimizations
 
-My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+I would like to set this up with MongoDB and an option to add a species with the relevant information along with a system of checks before it is merged with the main branch so when we inevitable expand the Star Trek universe with more species, the database can be updated by fans of the work.
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+### Lessons Learned: 
 
-alt tag
-
-How It's Made:
-Tech used: HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-Optimizations
-(optional)
-
-You don't have to include this section but interviewers love that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are GREAT to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
-Lessons Learned:
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or fuck yeah I did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-Palettable: https://github.com/alecortega/palettable
-
-Twitter Battle: https://github.com/alecortega/twitter-battle
-
-Patch Panel: https://github.com/alecortega/patch-panel
+I learned building an API from scratch wasn't nearly as hard as I thought it was. I was blown away by the template I used from https://www.thelcars.com/. I really appreciated how they made it look exactly like the computer systems in the original Star Trek computer systems. 
