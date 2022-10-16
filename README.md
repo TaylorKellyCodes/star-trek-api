@@ -10,7 +10,7 @@ Just enter the species name in the text box and click "Get Info" and you'll get 
 
 ## Tech Used: Node.js, Express, JavaScript, HTML, and CSS.
 
-and a HTML/CSS Template from https://www.thelcars.com/ to create a full-stack app that you can use to look for information on different species in the Star Trek universe! The API is made from scratch with JavaScript and stores all of the information and pictures.
+I added onto a HTML/CSS Template from https://www.thelcars.com/ to create a full-stack app that you can use to look for information on different species in the Star Trek universe! The API is made from scratch with JavaScript and stores all of the information and pictures. This is one of two repos, split from froent end and back end code.
 
 ### Optimizations
 
