@@ -6,9 +6,9 @@ Just enter the species name in the text box and click "Get Info" and you'll get 
 
 ### Screenshot: [![federation.jpg](https://i.postimg.cc/WzfpyFZp/federation.jpg)](https://postimg.cc/y3czgNn2)
 
-###How I made it:
+### How I made it:
 
-## Tech Used: Node.js, Express, 
+## Tech Used: Node.js, Express, JavaScript, HTML, and CSS.
 
 and a HTML/CSS Template from https://www.thelcars.com/ to create a full-stack app that you can use to look for information on different species in the Star Trek universe! The API is made from scratch with JavaScript and stores all of the information and pictures.
 
